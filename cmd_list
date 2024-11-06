@@ -1,0 +1,12 @@
+commands:
+
+pwd - prints working directory
+ls - lists files in current directory
+clear - clears the terminal
+cd - change directory to where you want
+mkdir - create a new directory
+rm - remove a directory or file (a bit buggy)
+cat - reads contents of file (dosent rly work idk why)
+kill [PID] - terminates specified proccess ID
+[downloading files with curl dosent really work check back later for an update]
+exit - closes the program
